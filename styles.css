@@ -13,6 +13,8 @@ body {
 }
 
 .icon {
+    width: 100px; /* Tamaño deseado para el ancho */
+    height: auto; /* Mantener la proporción */
     animation: spin 2s linear infinite;
 }
 
