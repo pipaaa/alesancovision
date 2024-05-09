@@ -15,7 +15,7 @@ body {
 .icon {
     width: 275px; /* Tamaño deseado para el ancho */
     height: auto; /* Mantener la proporción */
-    animation: spin 2s linear infinite;
+    animation: spin 4s linear infinite;
 }
 
 .loading-text {
